@@ -1,0 +1,9 @@
+*.iml
+atlassian-ide-plugin.xml
+.buildpath
+.project
+.externalToolBuilders
+.settings
+.idea/
+.DS_Store
+Gemfile.lock
